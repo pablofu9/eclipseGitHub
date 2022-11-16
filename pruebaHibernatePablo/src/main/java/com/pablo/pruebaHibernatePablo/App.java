@@ -63,6 +63,7 @@ public class App
 			session.getTransaction().commit();
 		} else
 			System.out.println("EMPLEADO NO ENCONTRADO");
+		
     }
   
 }
